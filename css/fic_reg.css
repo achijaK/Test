@@ -1,0 +1,19 @@
+
+body{
+    background-image: url(../images/im6.jpg);
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size: cover;
+}
+button{
+    margin-top: -8px;
+}
+label{
+    margin-top: 0px;
+}
+input{
+    border:none;
+    border-radius: 10px;
+    height:25px;
+    border: double;
+}

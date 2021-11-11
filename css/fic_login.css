@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/im6.jpg);
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size: cover;
+}
+i h3{
+    margin-top:2px;
+    position: fixed;
+}
+.mdp{
+    margin-top:75px;
+}
+.mdp input{
+    width:350px;
+    height:25px;
+}
+label{
+    margin-right:200px;
+    margin-top: 10px;
+}
+.ide{
+    margin-top:3px;
+}
+.ide input{
+    width:350px;
+    height:25px; 
+}
