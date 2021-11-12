@@ -1,0 +1,30 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+h1{
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+table{
+    
+    border:solid 3px darkblue;
+    border-collapse: collapse;
+
+}
+
+th{
+    background-color: darkgrey;
+    text-align: justify;
+    
+}
+
+th,td{
+    border:solid 2px darkblue;
+    padding: 10px;
+}
+
+
